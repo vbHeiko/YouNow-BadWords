@@ -12,3 +12,8 @@ any (and yes, *any*) part of a shorter word on the blacklist. In order to keep
 the list small, those longer words won't be added.
 
 Contributions are always welcome in order to make both lists a bit less incomplete!
+
+### Contributors
+* [PeterHans_59149](https://www.younow.com/PeterHans_59149)
+* Versagerbernd
+* Versagermaxi
