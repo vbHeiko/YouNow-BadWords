@@ -20,6 +20,7 @@
 * pimmel
 * popo
 * porno
+* sex
 * shit
 * spasti
 * stecher
