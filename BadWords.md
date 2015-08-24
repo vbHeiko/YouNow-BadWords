@@ -30,6 +30,7 @@
 * schwarze
 * sex
 * shit
+* sik
 * spasti
 * stecher
 * tage
