@@ -16,8 +16,10 @@
 * hure
 * hurensohn
 * hören
+* immer dein
 * jude
 * könnt
+* körper
 * mumu
 * muschi
 * musik
