@@ -15,7 +15,7 @@ blacklist. Here is some evidence to support both cases:
 * musik (sik)
 
 ### Allowed longer words which contain a part on the blacklist
-* ...
+* schmiernippel (nippel)
 
 Contributions are always welcome in order to make both lists a bit less incomplete!
 
