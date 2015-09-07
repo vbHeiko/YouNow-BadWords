@@ -6,6 +6,7 @@
 * beefen
 * beine
 * bitch
+* blasen
 * brüste
 * busen
 * dildo
@@ -13,6 +14,8 @@
 * fap
 * fotze
 * geil
+* gepieselt
+* hoch
 * hure
 * hurensohn
 * hören
@@ -20,6 +23,7 @@
 * jude
 * könnt
 * körper
+* Kuss
 * mumu
 * muschi
 * musik
@@ -29,10 +33,13 @@
 * pimmel
 * popo
 * porno
+* scheiße
+* schlagen
 * schwarze
 * sex
 * shit
 * sik
+* spanisch
 * spasti
 * stecher
 * tage
@@ -40,6 +47,7 @@
 * titten
 * treffen
 * und 1 Esel
+* verblassen
 * vibrator
 * weed
 * weniger
