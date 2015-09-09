@@ -13,6 +13,7 @@
 * fap
 * fotze
 * geil
+* göttin
 * hure
 * hurensohn
 * hören
