@@ -1,8 +1,8 @@
-Crowdsourced list of words censored in YouNow's chat
-----------------------------------------------------
+Crowdsourced list of words censored on YouNow
+---------------------------------------------
 
 * See [BadWords.md](BadWords.md) for an (incomplete) list of words censored
-  in YouNow's chat.
+  on YouNow.
 * See [SurprisinglyNotBadWords.md](SurprisinglyNotBadWords.md) for an (also
   incomplete) list of words that, surprisingly, are actually *not* censored,
   but maybe should have been.
@@ -17,7 +17,8 @@ blacklist. Here is some evidence to support both cases:
 ### Allowed longer words which contain a part on the blacklist
 * schmiernippel (nippel)
 
-Contributions are always welcome in order to make both lists a bit less incomplete!
+Contributions are always welcome in order to make both lists a bit less
+incomplete!
 
 ### Contributors
 * [PeterHans_59149](https://www.younow.com/PeterHans_59149)
