@@ -8,6 +8,9 @@
 * bitch
 * brüste
 * busen
+* cleavage
+* crack
+* cum
 * dildo
 * drachenlord
 * fap
@@ -31,6 +34,7 @@
 * popo
 * porno
 * schwarze
+* schwul
 * sex
 * shit
 * sik
@@ -40,6 +44,7 @@
 * teste
 * titten
 * treffen
+* twerk
 * und 1 Esel
 * vibrator
 * weed
