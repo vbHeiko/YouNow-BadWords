@@ -12,16 +12,20 @@ they only contain any (and yes, *any*) part of a shorter word on the known
 blacklist. Here is some evidence to support both cases:
 
 ### Longer words banned as part of shorter words
+* kunstwerk (twerk)
 * musik (sik)
 
 ### Allowed longer words which contain a part on the blacklist
+* lesbitch (bitch)
 * schmiernippel (nippel)
 
 Contributions are always welcome in order to make both lists a bit less
 incomplete!
 
 ### Contributors
+* Moneypenny
 * [PeterHans_59149](https://www.younow.com/PeterHans_59149)
 * Perzon5
+* Spiegelverkehrt
 * Versagerbernd
 * Versagermaxi
