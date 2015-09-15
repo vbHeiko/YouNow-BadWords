@@ -6,22 +6,24 @@
 * beefen
 * beine
 * bitch
+* blasen
 * brüste
 * busen
 * cleavage
 * crack
 * cum
 * dildo
-* drachenlord
 * fap
 * fotze
 * geil
 * göttin
+* hoch
 * hure
 * hurensohn
 * hören
 * immer dein
 * jude
+* kuss
 * könnt
 * körper
 * mumu
@@ -33,11 +35,14 @@
 * pimmel
 * popo
 * porno
+* scheiße
+* schlagen
 * schwarze
 * schwul
 * sex
 * shit
 * sik
+* spanisch
 * spasti
 * stecher
 * tage
@@ -46,6 +51,7 @@
 * treffen
 * twerk
 * und 1 Esel
+* verblassen
 * vibrator
 * weed
 * weniger
