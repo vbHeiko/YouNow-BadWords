@@ -25,6 +25,7 @@ blacklist. Here is some evidence to support both cases:
 ### Allowed longer words which contain a part on the blacklist
 * lesbitch (bitch)
 * schmiernippel (nippel)
+* warscheinlich (arsch)
 
 Contributions are always welcome in order to make both lists a bit less
 incomplete!
